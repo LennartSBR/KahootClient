@@ -1,2 +1,2 @@
-# UntisClient
- The timetable in your PC
+# Kahoot Client
+ Spielerich lernen
